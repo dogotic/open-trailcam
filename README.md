@@ -41,7 +41,7 @@ Mission goal :
 - Take a photo every 5 minutes, use the sd card as the buffer and send them to the web server
 - Detect motion, take photo and send it to the web server
 
-## 4th phase 
+## 5th phase 
 - STM32 Blue Pill with STM32F103C8T6 chip
 - SIM7100 modem
 - SDCard
