@@ -8,7 +8,11 @@ We will try to use of the shelf easly accessible components that everyone can bu
 - SIM7100 modem
 
 Mission goal : 
-- Try to send an SMS to an another phone to verify communication and operation between STM32 and SIM7100 4G modem. 
+- Try to send an SMS to an another phone to verify communication and operation between STM32 and SIM7100 4G modem.
+
+Status : 
+- Not Completed
+
 
 ## 2nd phase 
 - STM32 Blue Pill with STM32F103C8T6 chip
@@ -17,7 +21,10 @@ Mission goal :
 - WebHosting to send the photo to
 
 Mission goal : 
-- Try to send a photo stored on the sd card to a server 
+- Try to send a photo stored on the sd card to a server
+
+Status : 
+- Not Completed
 
 ## 3rd phase 
 - STM32 Blue Pill with STM32F103C8T6 chip
@@ -28,6 +35,9 @@ Mission goal :
 
 Mission goal : 
 - Take a photo every 5 minutes, use the sd card as the buffer and send them to the web server
+
+Status : 
+- Not Completed
 
 ## 4th phase 
 - STM32 Blue Pill with STM32F103C8T6 chip
@@ -41,6 +51,9 @@ Mission goal :
 - Take a photo every 5 minutes, use the sd card as the buffer and send them to the web server
 - Detect motion, take photo and send it to the web server
 
+Status : 
+- Not Completed
+
 ## 5th phase 
 - STM32 Blue Pill with STM32F103C8T6 chip
 - SIM7100 modem
@@ -50,6 +63,9 @@ Mission goal :
 - mmWave Radar
 - try to find a suitable ir cut motorized filter for the SPI CAMERA
 - add a 12V IR Reflector of some kind for the night vision
+
+Status : 
+- Not Completed
 
 Mission goal : 
 - Try to add night vision to the project
